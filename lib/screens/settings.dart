@@ -89,7 +89,7 @@ class SettingsPage extends StatelessWidget {
                 const Text('• Pratik Kawadwale'),
                 const SizedBox(height: 15),
                 const Text('Features :' ,style: TextStyle(fontSize: 20, fontWeight:FontWeight.bold),),
-                const Text('• Top Level Privary'),
+                const Text('• Top Level Privacy'),
                 const Text('• Dark mode support'),
                 const Text('• Browsing history'),
                 const Text('• Clean interface'),

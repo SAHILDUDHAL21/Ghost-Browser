@@ -10,6 +10,7 @@ import 'screens/bookmarks.dart';
 import 'package:share_plus/share_plus.dart';
 import 'package:flutter/services.dart';
 import 'package:webview_flutter/webview_flutter.dart' as mobile;
+import 'package:path/path.dart' as p;
 
 void main() async {
   WidgetsFlutterBinding.ensureInitialized();
@@ -17,7 +18,7 @@ void main() async {
   if (Platform.isWindows) {
     try {
       await windows.WebviewController.initializeEnvironment(
-        userDataPath: '$Directory.current.path/webview_data',
+        userDataPath: p.join(Directory.current.path, 'webview_data'),
       );
     } catch (e) {
       // Ignore if environment is already initialized
@@ -71,6 +72,14 @@ class _MyBrowserAppState extends State<MyBrowserApp> {
           brightness: isDarkMode ? Brightness.dark : Brightness.light,
         ),
         useMaterial3: true,
+        appBarTheme: AppBarTheme(
+          backgroundColor: isDarkMode ? Colors.black : Colors.white,
+          foregroundColor: isDarkMode ? Colors.white : Colors.black,
+          systemOverlayStyle: SystemUiOverlayStyle(
+            statusBarColor: Colors.transparent,
+            statusBarIconBrightness: isDarkMode ? Brightness.light : Brightness.dark,
+          ),
+        ),
       ),
       home: WebBrowserPage(
         isDarkMode: isDarkMode,
