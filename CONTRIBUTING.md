@@ -121,7 +121,6 @@ ghost_browser/
 If you need help, you can:
 
 * Create an issue with the "question" label
-* Email the maintainers at sahildudhal21@gmail.com
 * Visit YouTube channel [@SahilDudhal-zw1ls](https://youtube.com/@SahilDudhal-zw1ls)
 
 ## Recognition

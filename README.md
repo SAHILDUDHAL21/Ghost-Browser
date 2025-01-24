@@ -1,7 +1,7 @@
 # Ghost Browser
 
 <p align="center">
-  <img src="assets/icon.png" alt="Ghost Browser Logo" width="200"/>
+  <img src="assets/icon.png" alt="Ghost Browser Logo" width="200" style="border-radius: 30px;"/>
 </p>
 
 A lightweight, privacy-focused FOSS (Free & Open Source Software) web browser built with Flutter. Ghost Browser provides a clean and intuitive interface while prioritizing user privacy and performance.
@@ -48,7 +48,18 @@ height="80">](https://github.com/SAHILDUDHAL21/Ghost-Browser/releases/download/v
 </p>
 
 ### 🎥 Video Demo
-[![Watch the Demo](https://img.youtube.com/vi/Jp84YNBkZHM/maxresdefault.jpg)](https://youtube.com/shorts/Jp84YNBkZHM?si=AOouzgVGpmXtiMGe)
+<p align="center">
+  <iframe 
+    width="600" 
+    height="338"
+    src="https://www.youtube.com/embed/Jp84YNBkZHM?autoplay=1&mute=1&controls=1&loop=1"
+    title="Ghost Browser Demo"
+    frameborder="0"
+    allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
+    allowfullscreen
+    style="border-radius: 25px;"
+  ></iframe>
+</p>
 
 ### 📖 More Details
 For a detailed breakdown of the project and development insights, check out my [LinkedIn post]() about building this app.
@@ -150,7 +161,7 @@ Please read our [Contributing Guidelines](CONTRIBUTING.md) for details.
 
 ## 📜 License
 
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+This project is licensed under the MIT License - see the [LICENSE](https://github.com/SAHILDUDHAL21/Ghost-Browser/blob/main/LICENSE) file for details.
 
 ## 🔒 Privacy Policy
 
