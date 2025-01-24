@@ -6,7 +6,7 @@
 
 A lightweight, privacy-focused FOSS (Free & Open Source Software) web browser built with Flutter. Ghost Browser provides a clean and intuitive interface while prioritizing user privacy and performance.
 
-## Features
+## 🚀 Features
 
 - 🔒 **Privacy Focused**: No tracking, no telemetry, just pure browsing
 - 🌙 **Dark Mode**: Comfortable browsing in low-light conditions
@@ -15,11 +15,36 @@ A lightweight, privacy-focused FOSS (Free & Open Source Software) web browser bu
 - 🔍 **Clean Interface**: Minimalist design for distraction-free browsing
 - 📱 **Cross Platform**: Supports both Windows and Android
 
-## Screenshots
+### 📥 Download
 
-[You can add screenshots of your app here]
+You can download the latest release from our [GitHub Releases](https://github.com/sahildudhal/ghost_browser/releases) page:
 
-## Installation
+[<img src="https://github.com/machiav3lli/oandbackupx/blob/034b226cea5c1b30eb4f6a6f313e4dadcbb0ece4/badge_github.png"
+alt="Get it on GitHub"
+height="80">]() (Windows)
+
+[<img src="https://github.com/machiav3lli/oandbackupx/blob/034b226cea5c1b30eb4f6a6f313e4dadcbb0ece4/badge_github.png"
+alt="Get it on GitHub" 
+height="80">](https://github.com/sahildudhal/ghost_browser/releases/latest) (Android)
+
+
+## 📱 Screenshots & Demo
+
+<p align="center">
+  <img src="" width="200" alt="Home Screen"/>
+  <img src="" width="200" alt="Search Results"/>
+  <img src="" width="200" alt="History"/>
+  <img src="" width="200" alt="Bookmarks"/>
+  <img src="" width="200" alt="Settings"/>
+</p>
+
+### 🎥 Video Demo
+[![Watch the Demo]()]()
+
+### 📖 More Details
+For a detailed breakdown of the project and development insights, check out my [LinkedIn post]() about building this app.
+
+## 🖥️ Installation
 
 ### Prerequisites
 - Flutter SDK (>=3.1.4)
@@ -41,10 +66,9 @@ A lightweight, privacy-focused FOSS (Free & Open Source Software) web browser bu
 #### For Windows:
 - Install Visual Studio 2019 or later with Desktop development with C++
 - Install Windows 11 SDK
+- Run in development mode
 
-4. Run in development mode
-
-### Troubleshooting
+### 🔧 Troubleshooting
 
 If you encounter any issues during the build process:
 
@@ -65,14 +89,8 @@ flutter doctor
 - Windows build fails: Install Visual Studio C++ build tools
 - Gradle sync fails: Check your internet connection and try `flutter pub get`
 
-### Download
 
-You can download the latest release from our [GitHub Releases](https://github.com/sahildudhal/ghost_browser/releases) page:
-
-- [Download APK](https://github.com/sahildudhal/ghost_browser/releases/latest) (Android)
-- [Download EXE](https://github.com/sahildudhal/ghost_browser/releases/latest) (Windows)
-
-## Technical Details
+## 📚 Technical Details
 
 ### Architecture
 - Built with Flutter 3.x
@@ -88,7 +106,7 @@ You can download the latest release from our [GitHub Releases](https://github.co
 - share_plus: ^7.2.1
 - url_launcher: ^6.2.1
 
-## Contributing
+## 🤝 Contributing
 
 We welcome contributions! Here's how you can help:
 
@@ -100,12 +118,12 @@ We welcome contributions! Here's how you can help:
 
 Please read our [Contributing Guidelines](CONTRIBUTING.md) for details.
 
-## Development Team
+## 🧑‍🤝‍🧑 Development Team
 
-- **Sahil Dudhal** - *Lead Developer* - [GitHub](https://github.com/sahildudhal)
-- **Pratik Kawadwale** - *Core Developer* - [GitHub](https://github.com/pratikkawadwale)
+- **Sahil Dudhal** - [GitHub](https://github.com/SAHILDUDHAL21)
+- **Pratik Kawadwale** - [GitHub](https://github.com/pratikkawadwale)
 
-## Version History
+## 📜 Version History
 
 - v1.0.0 (2024-01)
   - Initial release
@@ -113,7 +131,7 @@ Please read our [Contributing Guidelines](CONTRIBUTING.md) for details.
   - Bookmarks and history
   - Dark mode support
 
-## Roadmap
+## 🔮 Future Features Implementation
 
 - [ ] Ad blocking support
 - [ ] Cross-device sync
@@ -122,11 +140,11 @@ Please read our [Contributing Guidelines](CONTRIBUTING.md) for details.
 - [ ] Custom themes
 - [ ] Tab groups
 
-## License
+## 📜 License
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
-## Privacy Policy
+## 🔒 Privacy Policy
 
 Ghost Browser is committed to user privacy:
 
@@ -136,15 +154,15 @@ Ghost Browser is committed to user privacy:
 - All data stored locally
 - No third-party analytics
 
-## Support
+## 📞 Support
 
 Need help? Here's how to reach us:
 
-- Create an [Issue](https://github.com/sahildudhal/ghost_browser/issues)
-- Email: sahildudhal@gmail.com
-- Join our [Discord](https://discord.gg/ghostbrowser)
+- Create an [Issue](https://github.com/SAHILDUDHAL21/ghost_browser/issues)
+- Email: sahildudhal21@gmail.com
+- YouTube: [@SahilDudhal-zw1ls](https://youtube.com/@SahilDudhal-zw1ls)
 
-## Acknowledgments
+## 🤝 Acknowledgments
 
 - Flutter team for the amazing framework
 - All our contributors
