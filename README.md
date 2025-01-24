@@ -49,16 +49,9 @@ height="80">](https://github.com/SAHILDUDHAL21/Ghost-Browser/releases/download/v
 
 ### 🎥 Video Demo
 <p align="center">
-  <iframe 
-    width="600" 
-    height="338"
-    src="https://www.youtube.com/embed/Jp84YNBkZHM?autoplay=1&mute=1&controls=1&loop=1"
-    title="Ghost Browser Demo"
-    frameborder="0"
-    allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
-    allowfullscreen
-    style="border-radius: 25px;"
-  ></iframe>
+  <a href="https://youtube.com/shorts/Jp84YNBkZHM?si=AOouzgVGpmXtiMGe">
+    <img src="https://img.youtube.com/vi/Jp84YNBkZHM/maxresdefault.jpg" alt="Watch the Demo" style="border-radius: 25px; width: 600px;"/>
+  </a>
 </p>
 
 ### 📖 More Details
