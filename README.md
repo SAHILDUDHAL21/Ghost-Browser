@@ -35,11 +35,16 @@ height="80">](https://github.com/sahildudhal/ghost_browser/releases/latest)
 ## 📱 Screenshots & Demo
 
 <p align="center">
-  <img src="" width="200" alt="Home Screen"/>
-  <img src="" width="200" alt="Search Results"/>
-  <img src="" width="200" alt="History"/>
-  <img src="" width="200" alt="Bookmarks"/>
-  <img src="" width="200" alt="Settings"/>
+  <img src="assets\Screenshots\home-dark.png" width="200" alt="Home Screen"/>
+  <img src="assets\Screenshots\home.png" width="200" alt="Home Screen"/>
+  <img src="assets\Screenshots\search.png" width="200" alt="Search Results"/>
+  <img src="assets\Screenshots\history.png" width="200" alt="History"/>
+  <img src="assets\Screenshots\bookmarks.png" width="200" alt="Bookmarks"/>
+  <img src="assets\Screenshots\settings.png" width="200" alt="Settings"/>
+  <img src="assets\Screenshots\web.png" width="200" alt="web"/>
+  <img src="assets\Screenshots\web2.png" width="200" alt="web2"/>
+  <img src="assets\Screenshots\clear-history.png" width="200" alt="clear-history"/>
+  <img src="assets\Screenshots\about.png" width="200" alt="about"/>
 </p>
 
 ### 🎥 Video Demo
