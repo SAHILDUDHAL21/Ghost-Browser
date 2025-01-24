@@ -142,7 +142,7 @@ Please read our [Contributing Guidelines](CONTRIBUTING.md) for details.
 
 ## 🔮 Future Features Implementation
 
-- [.] Ad blocking support
+- [ ] Ad blocking support
 - [ ] Cross-device sync
 - [ ] Password manager
 - [ ] Extensions support
