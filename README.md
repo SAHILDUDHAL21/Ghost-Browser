@@ -48,7 +48,7 @@ height="80">](https://github.com/SAHILDUDHAL21/Ghost-Browser/releases/download/v
 </p>
 
 ### 🎥 Video Demo
-[![Watch the Demo]()]()
+[![Watch the Demo](https://img.youtube.com/vi/Jp84YNBkZHM/maxresdefault.jpg)](https://youtube.com/shorts/Jp84YNBkZHM?si=AOouzgVGpmXtiMGe)
 
 ### 📖 More Details
 For a detailed breakdown of the project and development insights, check out my [LinkedIn post]() about building this app.
@@ -145,7 +145,6 @@ Please read our [Contributing Guidelines](CONTRIBUTING.md) for details.
 - [ ] Ad blocking support
 - [ ] Cross-device sync
 - [ ] Password manager
-- [ ] Extensions support
 - [ ] Custom themes
 - [ ] Tab groups
 
