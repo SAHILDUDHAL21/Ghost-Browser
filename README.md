@@ -17,34 +17,34 @@ A lightweight, privacy-focused FOSS (Free & Open Source Software) web browser bu
 
 ### 📥 Download
 
-You can download the latest release from our [GitHub Releases](https://github.com/sahildudhal/ghost_browser/releases) page:
+You can download the latest release from our [GitHub Releases](https://github.com/SAHILDUDHAL21/Ghost-Browser/releases) page:
 
   #### 🪟 Windows
 
 [<img src="https://github.com/machiav3lli/oandbackupx/blob/034b226cea5c1b30eb4f6a6f313e4dadcbb0ece4/badge_github.png"
 alt="Get it on GitHub"
-height="80">]()
+height="80">](https://github.com/SAHILDUDHAL21/Ghost-Browser/releases/download/v1.0.0/Ghost.Browser.windows.exe)
 
   #### 🤖 Android
 
 [<img src="https://github.com/machiav3lli/oandbackupx/blob/034b226cea5c1b30eb4f6a6f313e4dadcbb0ece4/badge_github.png"
 alt="Get it on GitHub" 
-height="80">](https://github.com/sahildudhal/ghost_browser/releases/latest)
+height="80">](https://github.com/SAHILDUDHAL21/Ghost-Browser/releases/download/v1.0.0/Ghost-Browser-release.apk)
 
 
 ## 📱 Screenshots & Demo
 
 <p align="center">
-  <img src="assets\Screenshots\home-dark.png" width="200" alt="Home Screen"/>
-  <img src="assets\Screenshots\home.png" width="200" alt="Home Screen"/>
-  <img src="assets\Screenshots\search.png" width="200" alt="Search Results"/>
-  <img src="assets\Screenshots\history.png" width="200" alt="History"/>
-  <img src="assets\Screenshots\bookmarks.png" width="200" alt="Bookmarks"/>
-  <img src="assets\Screenshots\settings.png" width="200" alt="Settings"/>
-  <img src="assets\Screenshots\web.png" width="200" alt="web"/>
-  <img src="assets\Screenshots\web2.png" width="200" alt="web2"/>
-  <img src="assets\Screenshots\clear-history.png" width="200" alt="clear-history"/>
-  <img src="assets\Screenshots\about.png" width="200" alt="about"/>
+  <img src="https://github.com/SAHILDUDHAL21/Ghost-Browser/blob/main/assets/Screenshots/home-dark.png" width="200" alt="Home Screen"/>
+  <img src="https://github.com/SAHILDUDHAL21/Ghost-Browser/blob/main/assets/Screenshots/home.png" width="200" alt="Home Screen"/>
+  <img src="https://github.com/SAHILDUDHAL21/Ghost-Browser/blob/main/assets/Screenshots/search.png" width="200" alt="Search Results"/>
+  <img src="https://github.com/SAHILDUDHAL21/Ghost-Browser/blob/main/assets/Screenshots/history.png" width="200" alt="History"/>
+  <img src="https://github.com/SAHILDUDHAL21/Ghost-Browser/blob/main/assets/Screenshots/bookmarks.png" width="200" alt="Bookmarks"/>
+  <img src="https://github.com/SAHILDUDHAL21/Ghost-Browser/blob/main/assets/Screenshots/settings.png" width="200" alt="Settings"/>
+  <img src="https://github.com/SAHILDUDHAL21/Ghost-Browser/blob/main/assets/Screenshots/web.png" width="200" alt="web"/>
+  <img src="https://github.com/SAHILDUDHAL21/Ghost-Browser/blob/main/assets/Screenshots/web2.png" width="200" alt="web2"/>
+  <img src="https://github.com/SAHILDUDHAL21/Ghost-Browser/blob/main/assets/Screenshots/clear-history.png" width="200" alt="clear-history"/>
+  <img src="https://github.com/SAHILDUDHAL21/Ghost-Browser/blob/main/assets/Screenshots/about.png" width="200" alt="about"/>
 </p>
 
 ### 🎥 Video Demo
@@ -167,8 +167,7 @@ Ghost Browser is committed to user privacy:
 
 Need help? Here's how to reach us:
 
-- Create an [Issue](https://github.com/SAHILDUDHAL21/ghost_browser/issues)
-- Email: sahildudhal21@gmail.com
+- Create an [Issue](https://github.com/SAHILDUDHAL21/Ghost-Browser/issues)
 - YouTube: [@SahilDudhal-zw1ls](https://youtube.com/@SahilDudhal-zw1ls)
 
 ## 🤝 Acknowledgments
@@ -182,5 +181,5 @@ Need help? Here's how to reach us:
 <p align="center">
   Made with ❤️ by Team Ghost Browser
   <br>
-  <a href="https://github.com/sahildudhal/ghost_browser/stargazers">⭐ Star us on GitHub</a>
+  <a href="https://github.com/SAHILDUDHAL21/Ghost-Browser/stargazers">⭐ Star us on GitHub</a>
 </p>
